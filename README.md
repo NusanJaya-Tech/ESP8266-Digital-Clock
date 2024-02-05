@@ -20,5 +20,4 @@
 - Support WiFi
 
 ## Credits
-> NusanJaya Modify
-> Reza Rizki Maulana Creator
+> NusanJaya Modify ( Reza Rizki Maulana Creator )
