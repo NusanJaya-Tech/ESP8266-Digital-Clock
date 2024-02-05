@@ -19,5 +19,16 @@
 - ESP 8266 All
 - Support WiFi
 
+## 3. Cabling/Wiring the 1.8" TFT SPI display to NodeMCU
+        Display | NodeMCU
+          VCC <---> 5V or 3.3V
+          GND <---> GND
+           CS <---> GPIO 0
+    RESET/RST <---> GPIO 2
+        A0/DC <---> GPIO 4
+     SDA/MOSI <---> GPIO 13
+     SCK/SCLK <---> GPIO 14
+       LED/BL <---> GPIO 5
+
 ## Credits
 > NusanJaya Modify ( Reza Rizki Maulana Creator )
