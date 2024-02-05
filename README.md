@@ -14,3 +14,10 @@
 
 ## Description
 - This ESP Digital clock is designed for real time clocking with NTP Server. And you can change it in the Arduino application or in Visual Studio code with the help of PlatformIO. You can make this realtime clock using materials that are quite cheap and efficient.
+
+## Requement
+- ESP 8266 All
+- Support WiFi
+
+## Credits
+> Makan
