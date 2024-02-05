@@ -19,9 +19,5 @@
 - ESP 8266 All
 - Support WiFi
 
-***
-mk
-***
-
 ## Credits
 > NusanJaya Modify ( Reza Rizki Maulana Creator )
