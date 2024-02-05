@@ -21,27 +21,24 @@
 
 ## Connect pin esp
         Lcd | NodeMCU
-        
         VCC <---> 5V or 3.3V
         GND <---> GND
         SCL <---> D1
         SDA <---> D2
 
         Buzzer | NodeMCU
-
         VCC <---> D5
         GND <---> GND
 
         LedRed | NodeMCU
-
         VCC <---> D7
         GND <---> GND
 
         LedGreen | NodeMCU
-
         VCC <---> D6
         GND <---> GND
-           
+
+        If there is an error, I apologize.
 
 ## Credits
 > NusanJaya Modify ( Reza Rizki Maulana Creator )
