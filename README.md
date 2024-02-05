@@ -20,4 +20,5 @@
 - Support WiFi
 
 ## Credits
-> Makan
+> NusanJaya Modify
+> Reza Rizki Maulana Creator
