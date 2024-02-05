@@ -6,3 +6,9 @@
 - Can work in real time
 - Connect with NTP Pool
 - Easy to modify
+
+## Weakness
+- The network must be stable
+- Frequent NTP server errors
+
+
