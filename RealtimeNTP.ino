@@ -12,8 +12,8 @@ int wifiOnLedPin = D6;
 unsigned long lastBuzzerTime = 0;
 int lastBuzzerHour = -1;
 
-char* ssid = "yusuf";
-char* password = "Rony030303";
+char* ssid = "youssid";
+char* password = "youpassword";
 const long utcOffsetInSeconds = 25200;
 WiFiUDP ntpUDP;
 NTPClient timeClient(ntpUDP, "id.pool.ntp.org", utcOffsetInSeconds);
