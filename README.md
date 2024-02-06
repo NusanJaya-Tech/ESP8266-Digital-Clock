@@ -38,7 +38,5 @@
         VCC <---> D6
         GND <---> GND
 
-        If there is an error, I apologize.
-
 ## Credits
 > NusanJaya Modify ( Reza Rizki Maulana Creator )
