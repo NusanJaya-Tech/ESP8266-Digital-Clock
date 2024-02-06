@@ -42,5 +42,3 @@
 
 ## Credits
 > NusanJaya Modify ( Reza Rizki Maulana Creator )
-
-[![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/NusanJaya-Tech/ESP8266-Digital-Clock/tree/main)
